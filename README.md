@@ -8,17 +8,17 @@
 
 ## Desenvolvedores e disciplina:
 
-Alunos: Dimas Lima, Marília Santos, Daniel Lira, Nathyane de Oliveira, José Josimário e Thiago Maia.
-Disciplina: Programação Orientada a Objetos
-Professor: Jeofton Costa Melo
-Ano letivo: 2023.1
+Alunos: Dimas Lima, Marília Santos, Daniel Lira, Nathyane de Oliveira, José Josimário e Thiago Maia;
+Disciplina: Programação Orientada a Objetos;
+Professor: Jeofton Costa Melo;
+Ano letivo: 2023.1;
 
 ## Sobre:
 
 Esse projeto é um simulador de cálculo de imposto de renda mensal do ano de 2022, utilizando as seguintes regras:
 Alíquotas: salário de até R$1903.98 - 0% (Isento), até 2826.65 - 7.5%, até 3751.05 - 15%, até 4665 -  22.5%, acima de 4665 - 27.5%;
-Deduções: quantidade de dependentes * 189,59 + valor da contribuição previdenciária
-As deduções são reduzidas do salário, resultando no salário tributável. De acordo com o salário, ele se encaixará num intervalo de taxação, fragmentando-se em pedaços que serão tributados por cada taxa específica.
+Deduções: quantidade de dependentes * 189,59 + valor da contribuição previdenciária;
+As deduções são reduzidas do salário, resultando no salário tributável. De acordo com o salário, ele se encaixará num intervalo de taxação, fragmentando-se em pedaços que serão tributados por cada taxa específica;
 Ao todo, são 5 faixas de tributação, começando da faixa de isenção e chegando até os 27.5%.
 
 ## Dependências:
