@@ -13,7 +13,7 @@ Disciplina: Programação Orientada a Objetos
 Professor: Jeofton Costa Melo
 Ano letivo: 2023.1
 
-##Sobre:
+## Sobre:
 
 Esse projeto é um simulador de cálculo de imposto de renda mensal do ano de 2022, utilizando as seguintes regras:
 Alíquotas: salário de até R$1903.98 - 0% (Isento), até 2826.65 - 7.5%, até 3751.05 - 15%, até 4665 -  22.5%, acima de 4665 - 27.5%;
