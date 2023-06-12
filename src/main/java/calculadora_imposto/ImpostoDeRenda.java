@@ -1,7 +1,7 @@
 package calculadora_imposto;
 import java.util.Arrays;
 
-public class ImpostoDeRenda {
+public class ImpostoDeRenda extends Pessoa{
     public double[] valorImposto;
     public double[] valorFaixa;
     private double imposto;
